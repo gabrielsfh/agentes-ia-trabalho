@@ -3,6 +3,6 @@ langchain
 langchain-mistralai
 langchain-community
 langchain-core
-duckduckgo-search
+ddgs
 langgraph
 transformers
