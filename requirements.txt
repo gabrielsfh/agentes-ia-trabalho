@@ -6,3 +6,7 @@ langchain-core
 ddgs
 langgraph
 transformers
+ipywidgets
+torch
+torchvision
+torchaudio
